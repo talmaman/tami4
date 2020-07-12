@@ -1,0 +1,12 @@
+.candidate {
+    width: 50%;
+    padding: 5px;
+    margin: 15px 0;
+    & span {
+        padding: 0 5px;
+    }
+
+    &:hover {
+        background-color: darkgray;
+    }
+}
